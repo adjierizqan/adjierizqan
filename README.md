@@ -1,26 +1,33 @@
-# Hi, I'm Adjie 👋
+# Muhammad Rizqan Nur Adjie Adzani
 
-I am a Computer Science master's student with an interest in **Artificial Intelligence**, **Computer Vision**, and **Object Detection**.
+Computer Science master's student working on computer vision, object detection,
+and practical machine-learning systems. My current research focuses on tomato
+ripeness detection and the evaluation of YOLO, RT-DETR, and transformer-based
+detectors.
 
-My current research focuses on **tomato ripeness detection** using deep learning models such as YOLO, RT-DETR, and Vision Transformer.
+## Current focus
 
-## About Me
+- Detection pipelines that are reproducible from training through evaluation
+- Computer-vision systems with clear metrics and deployment boundaries
+- Python-based ML tooling and lightweight web interfaces for model demos
 
-* Master's student in Computer Science and Information Engineering
-* 🔭esearch interest: Computer Vision and Object Detection
-* Currently learning: Deep Learning, PyTorch, and YOLO-based models
-* Open to collaboration on AI and Computer Vision projects
-* Email: [adjierizqan@gmail.com](mailto:adjierizqan@gmail.com)
+## Selected projects
 
-## Tech Stack
+| Project | Focus |
+| --- | --- |
+| [Tomato Ripeness Detection](https://github.com/adjierizqan/tomato_ripeness) | Three-class detection benchmark across YOLO and RF-DETR families |
+| [YOLOv12 Three-Label Research](https://github.com/adjierizqan/yolov12_3label) | Experimental detector implementation and model adaptations |
+| [Pima Diabetes](https://github.com/adjierizqan/Pima_Diabetes) | Reproducible classical-ML workflow with a Flask inference interface |
+| [Motion & Emotion Recognition](https://github.com/adjierizqan/Motion-Detection-Emotion-Recognition) | Real-time OpenCV and DeepFace demonstration |
 
-**Languages:** Python, JavaScript, Java, PHP
-**AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn
-**Data:** NumPy, Pandas, Matplotlib
-**Web:** React, Vue.js, Laravel, Tailwind CSS
-**Database:** MySQL, MongoDB, Oracle
-**Tools:** Git, GitHub, Figma, Anaconda
+## Tools
 
-## Connect
+- **ML and vision:** PyTorch, Ultralytics, OpenCV, scikit-learn, TensorFlow
+- **Languages:** Python, JavaScript/TypeScript, Java, C#
+- **Web and data:** React, Next.js, Flask, Tailwind CSS, NumPy, Pandas
+- **Workflow:** Git, GitHub Actions, Conda, Figma
 
-[LinkedIn](https://linkedin.com/in/muhammadrizqan) | [Email](mailto:adjierizqan@gmail.com)
+## Contact
+
+[LinkedIn](https://linkedin.com/in/muhammadrizqan) ·
+[Email](mailto:adjierizqan@gmail.com)
