@@ -7,7 +7,7 @@ My current research focuses on **tomato ripeness detection** using deep learning
 ## About Me
 
 * Master's student in Computer Science and Information Engineering
-* 🔭esearch interest: Computer Vision and Object Detection
+* Research interest: Computer Vision and Object Detection
 * Currently learning: Deep Learning, PyTorch, and YOLO-based models
 * Open to collaboration on AI and Computer Vision projects
 * Email: [adjierizqan@gmail.com](mailto:adjierizqan@gmail.com)
