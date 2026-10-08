@@ -1,14 +1,9 @@
-# Hi, I'm Adjie
+# Hi, I'm Adjie.
 
-I build software for the work people do every day—tracking inventory, recording temperatures, and turning operational data into useful reports.
+I'm a software engineer from Indonesia. Most of my recent work has been for hospital laboratories. I've built tools for inventory ([LabStock](https://adjierizqan.github.io/projects/labstock/)), temperature logging ([SuhuLog](https://adjierizqan.github.io/projects/suhulog/)), and blood bank operations ([BDRS](https://adjierizqan.github.io/projects/bdrs/)).
 
-I'm a software engineer with an **M.Sc. in Computer Science and Information Engineering** from Tamkang University (2026). I work mainly with **TypeScript, React/Next.js, Node.js, and SQL**. My graduate research focused on computer vision.
+A lot of the work comes down to keeping records consistent when something changes: imports, corrections, and reports. I work mainly with TypeScript, React, Node.js, PHP, and SQL.
 
-## Selected work
+I earned an M.Sc. in Computer Science and Information Engineering at Tamkang University in 2026. My thesis covered tomato maturity detection with YOLOv11 and Swin Transformer ([TomatoVision](https://adjierizqan.github.io/projects/tomato-ripeness/)).
 
-- **[LabStock](https://adjierizqan.github.io/projects/labstock/)** — Laboratory inventory with traceable stock movements, corrections, and Excel reporting.
-- **[SuhuLog](https://adjierizqan.github.io/projects/suhulog/)** — Temperature monitoring with QR-based entry, correction history, and monthly exports.
-- **[BDRS](https://adjierizqan.github.io/projects/bdrs/)** — Blood-bank workflows that keep crossmatching, issuance, and transfusion records distinct. Public case study uses synthetic data.
-- **[TomatoVision](https://adjierizqan.github.io/projects/tomato-ripeness/)** — Master's research comparing YOLOv11, Swin Transformer, multi-scale SPPF, and ensemble detection for tomato maturity.
-
-[Portfolio](https://adjierizqan.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammadrizqan/) · [Email](mailto:adjierizqan@gmail.com)
+[Portfolio](https://adjierizqan.github.io/) | [LinkedIn](https://www.linkedin.com/in/muhammadrizqan/) | [Email](mailto:adjierizqan@gmail.com)
