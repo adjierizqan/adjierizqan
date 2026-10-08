@@ -1,26 +1,14 @@
-# Hi, I'm Adjie 👋
+# Hi, I'm Adjie
 
-I am a Computer Science master's student with an interest in **Artificial Intelligence**, **Computer Vision**, and **Object Detection**.
+I build software for the work people do every day—tracking inventory, recording temperatures, and turning operational data into useful reports.
 
-My current research focuses on **tomato ripeness detection** using deep learning models such as YOLO, RT-DETR, and Vision Transformer.
+I'm a software engineer with an **M.Sc. in Computer Science and Information Engineering** from Tamkang University (2026). I work mainly with **TypeScript, React/Next.js, Node.js, and SQL**. My graduate research focused on computer vision.
 
-## About Me
+## Selected work
 
-* Master's student in Computer Science and Information Engineering
-* Research interest: Computer Vision and Object Detection
-* Currently learning: Deep Learning, PyTorch, and YOLO-based models
-* Open to collaboration on AI and Computer Vision projects
-* Email: [adjierizqan@gmail.com](mailto:adjierizqan@gmail.com)
+- **[LabStock](https://adjierizqan.github.io/projects/labstock/)** — Laboratory inventory with traceable stock movements, corrections, and Excel reporting.
+- **[SuhuLog](https://adjierizqan.github.io/projects/suhulog/)** — Temperature monitoring with QR-based entry, correction history, and monthly exports.
+- **[BDRS](https://adjierizqan.github.io/projects/bdrs/)** — Blood-bank workflows that keep crossmatching, issuance, and transfusion records distinct. Public case study uses synthetic data.
+- **[TomatoVision](https://adjierizqan.github.io/projects/tomato-ripeness/)** — Master's research comparing YOLOv11, Swin Transformer, multi-scale SPPF, and ensemble detection for tomato maturity.
 
-## Tech Stack
-
-**Languages:** Python, JavaScript, Java, PHP
-**AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn
-**Data:** NumPy, Pandas, Matplotlib
-**Web:** React, Vue.js, Laravel, Tailwind CSS
-**Database:** MySQL, MongoDB, Oracle
-**Tools:** Git, GitHub, Figma, Anaconda
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/muhammadrizqan) | [Email](mailto:adjierizqan@gmail.com)
+[Portfolio](https://adjierizqan.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammadrizqan/) · [Email](mailto:adjierizqan@gmail.com)
