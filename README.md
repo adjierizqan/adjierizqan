@@ -1,1 +1,1 @@
-Hi, I'm Adjie, Currently building something.
+Hi I'm Adjie, Currently building something.
