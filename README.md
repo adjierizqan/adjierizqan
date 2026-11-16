@@ -2,11 +2,10 @@
 
 **Building things with AI.**
 
-Turning ideas into products, tools, and experiments.
+I use AI models, coding agents, and creative tools to turn ideas into working products and experiments.
 
-**Tools I've worked with**  
-Claude Code · ChatGPT · Codex · Antigravity · Gemini · Kimi Code · Google Stitch · Google Flow · Meshy
-
-I use whatever helps me build, then review and refine the result.
+> “Creativity is just connecting things.”
+>
+> — Steve Jobs
 
 [Portfolio](https://adjierizqan.com)
