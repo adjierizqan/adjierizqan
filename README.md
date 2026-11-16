@@ -1,13 +1,12 @@
 # Hi, I'm Adjie.
 
-**Software Engineer · Applied AI**  
-M.S. in Computer Science and Information Engineering, Tamkang University.
+**Building things with AI.**
 
-I build practical software and explore better ways to develop it.
+Turning ideas into products, tools, and experiments.
 
-AI is part of my workflow: Claude Code, ChatGPT, Codex, Gemini, Antigravity, and other tools when useful. I stay responsible for the decisions and the results.
+**Tools I've worked with**  
+Claude Code · ChatGPT · Codex · Antigravity · Gemini · Kimi Code · Google Stitch · Google Flow · Meshy
 
-> “The hottest new programming language is English.”  
-> — Andrej Karpathy
+I use whatever helps me build, then review and refine the result.
 
 [Portfolio](https://adjierizqan.com)
